@@ -1,6 +1,6 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Walmart Sales Prediction DL Project with LSTM
+subtitle:  Python - PyTorch, Pandas, NumPy, Seaborn
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
@@ -9,10 +9,9 @@ caption:
   subtitle: Illustration
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-[Use]("https://github.com/ivyyuqian/ivyyuqian.github.io/edit/master/_portfolio/project1.md") this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Manipulated and analyzed data (normalization/formatting; found patterns across department and store sales). Tuned hyperparameters, yielding validation RMSE of 0.32 (beat benchmark). Recognized business implications of accurate sales forecasting, including optimized inventory management and decision-making. Presented technical details and results. [Learn more]("https://medium.com/@ivyyuqian.yang/lstm-time-series-prediction-for-walmart-sales-data-e3a301dc6790")
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Completed Date: Dec 2023
+
 
