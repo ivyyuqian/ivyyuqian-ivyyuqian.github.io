@@ -13,7 +13,6 @@ Implemented Transformer encoder via NLP and DL. Preprocessed data (punctuation r
 handling/embedding layer with positional encoding). Built and trained models (multi-head attention layer for attention score computing/regularization techniques). Achieved 93% accuracy, outperforming LSTM models and precisely predicting test reviews.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Completed Date: Nov, 2023
+- Skills: Deep learning
 
