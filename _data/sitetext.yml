@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Yuqian(Ivy) Yang
     text: Portfolio
     button: Tell Me More
-    buttonlink: "#skills"
+    buttonlink: "#services"
 
   services:
     title: "Skills"
