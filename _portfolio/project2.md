@@ -1,6 +1,6 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Machine Learning Project: predictive model for employee turnover
+subtitle: R, Python
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
