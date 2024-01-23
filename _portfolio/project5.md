@@ -1,11 +1,11 @@
 ---
-title: Transformer Encoder Project: Movie Review Sentiment Analysis
+title: Transformer Encoder Project - Movie Review Sentiment Analysis
 subtitle: Python - PyTorch, NumPy, Matplotlib
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title: Transformer Encoder Project: Movie Review Sentiment Analysis
+  title: Transformer Encoder Project - Movie Review Sentiment Analysis
   subtitle: Python - PyTorch, NumPy, Matplotlib
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
