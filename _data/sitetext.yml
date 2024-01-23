@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "Data Visualization"
         desc: "Utilizing Tableau/Power BI well. Also have done a lot visualization works in R/Python."
         icon: fas fa-laptop
-      - title: "[Financial Analysis](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Financial Analysis"
         desc: "Professional at financial statement analysis/risk analysis"
         icon: fab fa-markdown
 
