@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: [Project Name]](https://en.wikipedia.org/wiki/Markdown)
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/03-full.jpg
 alt: 
