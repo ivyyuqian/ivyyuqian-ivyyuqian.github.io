@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     - title: "Timeline"
       section: timeline
     - title: "Contact me"
-      section: teams
+      section: team
     - title: "Contact"
       section: contact
     - title: "Theme Source"
