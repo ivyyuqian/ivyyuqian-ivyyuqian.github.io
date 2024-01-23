@@ -14,5 +14,5 @@ handling/embedding layer with positional encoding). Built and trained models (mu
 
 {:.list-inline}
 - Completed Date: Nov, 2023
-- Skills: Deep learning
+- Skills: Deep learning, Transformer, Data Clean, Data Mining, Prediction, Python, Pytorch, NLP, Sentiment Analysis
 
