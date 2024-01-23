@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Data Visualization"
         desc: "Utilizing Tableau/Power BI well. Also have done a lot visualization works in R/Python."
-        icon: fas fa-laptop
+        icon: fas fa-chart-simple
       - title: "Financial Analysis"
         desc: "Professional at financial statement analysis/risk analysis"
         icon: fab fa-markdown
@@ -91,42 +91,24 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+  contact:
+    title: "Attracting by my work/experience?"
+    text: "Feel free to contact me:)"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    section: contact
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+
+      - name: "Yuqian(Ivy) Yang"
+        role: "Data Analyst/Business Analyst job seeker"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/yuqianyangivy/
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://medium.com/@ivyyuqian.yang
+            icon: fab fa-brands fa-medium
+          - url: https://github.com/ivyyuqian
+            icon: fab fa-github
+
 
   contact:
     title: "Contact Us"
@@ -256,16 +238,6 @@ es: &DEFAULT_ES
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: equipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
@@ -276,16 +248,7 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+
 
   contact:
     title: "Contáctenos"
