@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: EDA of COVID-19: A Deep Dive into Global and US Statistics
+subtitle: Tableau
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: EDA of COVID-19: A Deep Dive into Global and US Statistics
+  subtitle: Tableau
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+EDA is a critical first step in the data analysis process. It involves summarizing the main characteristics of a dataset, often using visual methods. In the this data visualization project regarding COVID-19, EDA helps in uncovering patterns, spotting anomalies, framing hypotheses, and checking assumptions, using statistical figures and graphical representations. [Learn More](https://medium.com/@ivyyuqian.yang/eda-of-covid-19-a-deep-dive-into-global-and-us-statistics-9d89f9f1dfd3/)
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: May, 2023
 
