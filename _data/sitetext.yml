@@ -95,9 +95,8 @@ en: &DEFAULT_EN
     title: "Attracting by my work/experience?"
     text: "Feel free to contact me:)"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: contact
+    section: contact me
     people:
-
       - name: "Yuqian(Ivy) Yang"
         role: "Data Analyst/Business Analyst job seeker"
         image: assets/img/team/2.jpg
@@ -108,7 +107,6 @@ en: &DEFAULT_EN
             icon: fab fa-brands fa-medium
           - url: https://github.com/ivyyuqian
             icon: fab fa-github
-
 
   contact:
     title: "Contact Us"
