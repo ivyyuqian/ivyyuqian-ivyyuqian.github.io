@@ -1,11 +1,11 @@
 ---
-title: [Project Name](https://en.wikipedia.org/wiki/Markdown)
+title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
+  title: [Finish](https://en.wikipedia.org/wiki/Markdown)
   subtitle: Identity
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
