@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Yuqian(Ivy) Yang
     text: Portfolio
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#skills"
 
   skills:
     title: "Skills"
@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-chart-simple
       - title: "Financial Analysis"
         desc: "Professional at financial statement analysis/risk analysis"
-        icon: fas fa-solid fa-money-bill-trend-up
+        icon: fas fa-money-bill-trend-up
 
   portfolio:
     title: "Portfolio"
