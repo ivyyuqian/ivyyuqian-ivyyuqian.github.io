@@ -1,11 +1,11 @@
 ---
-title: Machine Learning Project: predictive model for employee turnover
+title: Machine Learning Project - predictive model for employee turnover
 subtitle: R, Python
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Machine Learning Project: predictive model for employee turnover
+  title: Machine Learning Project - predictive model for employee turnover
   subtitle: R, Python
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
