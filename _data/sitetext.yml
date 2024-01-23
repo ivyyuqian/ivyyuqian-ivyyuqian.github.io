@@ -11,24 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Yuqian(Ivy) Yang
+    text: Portfolio
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Skills"
+    text: "Data science is not only about data; it's about making data work for you."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Data Analysis"
+        desc: "Mastered at programmng language such as R/Python(Pandas&Numpy&Pytorch...)/SQL"
+        icon: fa-solid fa-magnifying-glass-chart #find more at https://fontawesome.com/icons
+      - title: "Data Visualization"
+        desc: "Utilizing Tableau/Power BI well. Also have done a lot visualization works in R/Python."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "[Financial Analysis](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Professional at financial statement analysis/risk analysis"
         icon: fab fa-markdown
 
   portfolio:
