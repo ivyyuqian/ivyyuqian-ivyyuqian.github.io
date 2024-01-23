@@ -12,7 +12,6 @@ caption:
 Developed a GAN and an autoencoder model, achieving superior image reconstruction. Implemented BCEWithLogitsLoss function for sharper image reconstructions and leveraged CNN layers for effective denoising. Explored the versatility of autoencoder, highlighting its utility in latent space operations and image manipulation with interpolation.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Completed Date: Dec, 2023
+- Skills: Deep learning, GAN, Autoencoder, Image Recognition, Python, Pytorch
 
