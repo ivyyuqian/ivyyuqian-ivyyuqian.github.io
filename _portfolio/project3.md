@@ -13,5 +13,5 @@ EDA is a critical first step in the data analysis process. It involves summarizi
 
 {:.list-inline}
 - Completed Date: May, 2023
-- 
+- Skills: Tableau, Data Mining, Data Analysis, Data Visualization
 
