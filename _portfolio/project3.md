@@ -5,7 +5,7 @@ image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: [Finish](https://en.wikipedia.org/wiki/Markdown)
+  title: Finish
   subtitle: Identity
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
