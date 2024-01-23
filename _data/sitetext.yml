@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Data Analysis"
         desc: "Mastered at programmng language such as R/Python(Pandas&Numpy&Pytorch...)/SQL"
-        icon: fa-solid fa-magnifying-glass-chart #find more at https://fontawesome.com/icons
+        icon: fas fa-magnifying-glass-chart #find more at https://fontawesome.com/icons
       - title: "Data Visualization"
         desc: "Utilizing Tableau/Power BI well. Also have done a lot visualization works in R/Python."
         icon: fas fa-laptop
