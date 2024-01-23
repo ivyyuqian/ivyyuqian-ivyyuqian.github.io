@@ -1,11 +1,11 @@
 ---
-title: EDA of COVID-19: A Deep Dive into Global and US Statistics
+title: EDA of COVID-19 - A Deep Dive into Global and US Statistics
 subtitle: Tableau
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: EDA of COVID-19: A Deep Dive into Global and US Statistics
+  title: EDA of COVID-19 - A Deep Dive into Global and US Statistics
   subtitle: Tableau
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
