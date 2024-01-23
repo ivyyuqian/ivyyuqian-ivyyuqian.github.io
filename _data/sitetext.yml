@@ -16,10 +16,10 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  services:
+  skills:
     title: "Skills"
     text: "Data science is not only about data; it's about making data work for you."
-    section: services
+    section: skills
     list:
       - title: "Data Analysis"
         desc: "Mastered at programmng language such as R/Python(Pandas&Numpy&Pytorch...)/SQL/Excel. Database management."
