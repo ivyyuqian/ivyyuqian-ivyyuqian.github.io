@@ -247,7 +247,7 @@ es: &DEFAULT_ES
             icon: fab fa-linkedin-in
 
 
-  contact:
+  contact me:
     title: "Contáctenos"
     text: "Lorem ipsum or call 123456789"
     section: contacto
