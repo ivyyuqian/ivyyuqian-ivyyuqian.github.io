@@ -51,17 +51,17 @@ en: &DEFAULT_EN
       - title: "BOSTON CONSULTING GROUP, Project Intern"
         year: "Mar – Jun 2023"
         desc: "Conducted market research and data analysis and presented result for a NGO Bank's China market entry. Presented analysis findings to stakeholders through compelling reports and presentations. Collected, cleaned, and visualized data related to low-income populations using Python (pandas, seaborn). Identified nearly 20 poverty alleviation opportunities, resulting in a remarkable 200% impact growth."
-        image: assets/img/timeline/1.png
+        image: assets/img/timeline/2.png
         alt:
       - title: "CICC, IBD – Financial Analyst"
         year: "Apr – Jul 2022"
         desc: "Served 10+ financial firms with due diligence, financial analysis, and crafting prospectuses/IPO materials.Boosted case completion rate by 15% using R/Excel for data cleaning and analysis."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/3.jpg
         alt:
       - title: "DELOITTE, Audit & Assurance – Data Analyst Intern"
         year: "Jan – Mar 2022"
         desc: "Led three data analysis projects: aviation, technology, education via SQL/Python: Pandas, NumPy, Seaborn. Cut processing time by 10% and enhanced anomaly detection accuracy by 15%. Enhanced efficiency of data export processes through client consultations."
-        image: assets/img/timeline/3.jpeg
+        image: assets/img/timeline/4.jpeg
         alt: image alt text
         # you can enforce the alignment
         align: right
