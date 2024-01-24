@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-chart-pie
       - title: "Financial Analysis"
         desc: "Professional at financial statement analysis/risk analysis"
-        icon: fas fa-money-bill-trend-up
+        icon: fas fa-arrow-trend-up
 
   portfolio:
     title: "Portfolio"
