@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Data Visualization"
         desc: "Utilizing Tableau/Power BI well. Also have done a lot visualization works in R/Python."
-        icon: fas fa-chart-simple
+        icon: fas fa-chart-pie
       - title: "Financial Analysis"
         desc: "Professional at financial statement analysis/risk analysis"
         icon: fas fa-money-bill-trend-up
