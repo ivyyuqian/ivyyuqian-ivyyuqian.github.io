@@ -70,26 +70,10 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "My story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "I'm Ivy Yang, a Duke University master's student, set to graduate in May. I'm actively seeking DA/DS roles. My expertise includes data analysis, ML,DL, modeling, and data visualization. I also have practical experience in market research and financial/risk analysis, and excel in using tools such as R, Python, SQL, Excel, and Tableau."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+
 
   team:
     title: "Attracting by my work/experience?"
@@ -108,20 +92,7 @@ en: &DEFAULT_EN
           - url: https://github.com/ivyyuqian
             icon: fab fa-github
 
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+
 
   footer:
     legal: "Privacy Policy"
