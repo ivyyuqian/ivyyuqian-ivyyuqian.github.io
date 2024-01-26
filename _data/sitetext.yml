@@ -77,7 +77,7 @@ en: &DEFAULT_EN
   team:
     title: "Interested in Hiring Me?"
     subtitle: "If my work resonates with you, don't hesitate to reach out and discuss how we can work together!"
-    text: "Feel free to contact me:)"
+    text: "Let's connect!"
     section: team
     people:
       - name: "Yuqian(Ivy) Yang"
@@ -90,7 +90,6 @@ en: &DEFAULT_EN
             icon: fab fa-brands fa-medium
           - url: https://github.com/ivyyuqian
             icon: fab fa-github
-
 
 
   footer:
