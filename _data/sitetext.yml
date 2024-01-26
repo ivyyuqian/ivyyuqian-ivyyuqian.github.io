@@ -75,7 +75,8 @@ en: &DEFAULT_EN
 
 
   team:
-    title: "Attracting by my work/experience?"
+    title: "Interested in Hiring Me?"
+    subtitle: "If my work resonates with you, don't hesitate to reach out and discuss how we can work together!"
     text: "Feel free to contact me:)"
     section: team
     people:
